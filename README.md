@@ -6,6 +6,12 @@ A standalone **desktop BEV map annotation tool**. Build a ground-reflectivity ma
 
 Current version: **v4.4 Mint**, with a mint-and-cream interface and a black map background by default. No browser, HTTP server, GPU, or PyTorch is required.
 
+## Example BEV map
+
+Ground-reflectivity map built from consecutive LiDAR point clouds. This is a top-down point-cloud projection, not a camera image.
+
+![Example LiDAR ground-reflectivity BEV map](./ground_reflectivity.png)
+
 ## 1. Download and extract
 
 Download the [v4.4 ZIP](./bev_map_annotator_desktop_v4_4_mint.zip) using the download button on its file page, then extract it.
