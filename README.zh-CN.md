@@ -6,6 +6,12 @@
 
 当前版本：**v4.4 Mint**。薄荷绿＋奶白色界面，地图默认黑色背景。无需浏览器、HTTP 服务、GPU 或 PyTorch。
 
+## BEV 底图示例
+
+由连续 LiDAR 点云生成的地面反射强度底图。这是点云的俯视投影，不是相机照片。
+
+![LiDAR 地面反射强度 BEV 底图](./ground_reflectivity.png)
+
 ## 1. 下载并解压
 
 下载仓库中的 [v4.4 ZIP](./bev_map_annotator_desktop_v4_4_mint.zip)，点击文件页的下载按钮后解压。
